@@ -1,0 +1,80 @@
+[
+    {
+        "id": "01",
+        "img": "https://i.ibb.co/L9PBcsR/machine-Learning.jpg",
+        "course_title": "Deep Learning Prerequisites:Linear Regression in PythonData science, machine learning, and artificial intelligence in Python for student",
+        "rating": {
+            "number": 4.4,
+            "badge": "Good"
+        },
+        "details": "This course teaches you about one popular technique used in machine learning, data science and statistics: linear regression.\" We cover the theory from the ground up: derivation of the solution, and applications to real-world problems. We show you how one might code their own linear regression module in Python.",
+        "student": "30,089",
+        "price": 89.99,
+        "topic": "Machine Learning"
+    },
+    {
+        "id": "02",
+        "img": "https://i.ibb.co/mqRDY8Z/3d-Gaming-Model.jpg",
+        "course_title": "Learn Blender 3D Modeling for Unity Video Game Development",
+        "rating": {
+            "number": 4.8,
+            "badge": "Excellent"
+        },
+        "details": "This course was designed for Unity developers who want to extend their capabilities to include 3D modeling in Blender. Whether you're interested in designing unique 3D props for your games, building awesome levels, or tweaking your existing Unity Assets, this course can help you get through the learning curve and put you in the driver's seat. You'll learn to Blend like a pro with a good working knowledge of all of the most common tools for editing video game props and level design. We cover all the basic terms, keyboard shortcuts, best practices, time-saving tips, basic animation, assigning uvs, applying materials, textures and more.",
+        "student": "13,192",
+        "price": 89.99,
+        "topic": "Unity"
+    },
+    {
+        "id": "03",
+        "img": "https://i.ibb.co/VV2GTyH/web-Development.jpg",
+        "course_title": "The Complete Web Developer in 2022: Zero to Mastery",
+        "rating": {
+            "number": 4.7,
+            "badge": "Excellent"
+        },
+        "details": "Just Updated for 2022! Become a Fullstack Web Developer by learning the most in demand skills!  Graduates of this course are now working at companies like Google, Tesla, Amazon, Apple, Shopify, JP Morgan, Facebook + other top tech companies (...seriously).\" Join a live online community of over 600,000+ developers and a course taught by an industry expert that has actually worked both in Silicon Valley and Toronto as a Senior Developer and Tech Lead.        This is the tutorial you've been looking for to become a modern web developer in 2022. It doesn’t just cover a small portion of the industry. This covers everything you need to know to get hired: from absolute zero knowledge to being able to put things on your resume that will allow you to live the life you want. ",
+        "student": "196,907",
+        "price": 84.99,
+        "topic": "Web Development"
+    },
+    {
+        "id": "04",
+        "img": "https://i.ibb.co/mt6fSqM/mobile-App-Development.jpg",
+        "course_title": "The Complete 2021 Flutter Development Bootcamp with Dart",
+        "rating": {
+            "number": 4.6,
+            "badge": "Excellent"
+        },
+        "details": "Welcome to the Complete Flutter App Development Bootcamp with Dart - created in collaboration with the Google Flutter team. Now includes a brand new module on Flutter State Management! Covering all the fundamental concepts for Flutter development, this is the most comprehensive Flutter course available online. We built this course over months, perfecting the curriculum together with the Flutter team to teach you Flutter from scratch and make you into  a skilled Flutter developer with a strong portfolio of beautiful Flutter apps. Our complete Flutter development bootcamp teaches you how to code using Dart and build beautiful, fast, native-quality iOS and Android apps. Even if you have ZERO programming experience. I'll take you step-by-step through engaging and fun video tutorials and teach you everything you need to know to succeed as a Flutter developer. The course includes 28+ hours of HD video tutorials and builds your programming knowledge while making real world apps. e.g. Whatsapp, QuizUp and Yahoo Weather. By the end of this course, you will be fluently programming in Dart and be ready to build your own Flutter apps and become a fully fledged Flutter developer. You'll also have a portfolio of over 15 apps that you can show off to any potential employer.",
+        "student": "155,576",
+        "price": 84.99,
+        "topic": "Mobile Development"
+    },
+    {
+        "id": "05",
+        "img": "https://i.ibb.co/7JHMPT9/cyber-Security.jpg",
+        "course_title": "Introduction to Security Awareness Campaigns",
+        "rating": {
+            "number": 4.4,
+            "badge": "Good"
+        },
+        "details": "Security Awareness Campaigns is about the components and reality of what makes awareness campaigns successful and which components are needed in it. This course will cover the basics of a security awareness campaign that is aimed at increasing security levels by addressing social engineering attacks and communicating the basics of awareness and threats companies face today. Learn the basic concepts of security awareness campaigns, quickly and easily! This course goes through relevant research into successful and failed attempts at increasing awareness, also going through complex standards and making them simple and easy to understand. The full version gives you research, tips and information you need to be successful in creating your own security awareness campaign.",
+        "student": "13,288",
+        "price": 29.99,
+        "topic": "Cyber Security"
+    },
+    {
+        "id": "06",
+        "img": "https://www.udemy.com/course/data-science-linear-regression-in-python/",
+        "course_title": "Learn Linux Administration and Supercharge Your Career",
+        "rating": {
+            "number": 4.4,
+            "badge": "Good"
+        },
+        "details": "If you want to learn Linux system administration and supercharge your career, read on. Hello. My name is X and I'm the author of Linux for Beginners, the founder of the Linux Training Academy, and an instructor to thousands of satisfied students. I started my IT career in the late 1990's as a Unix and Linux System Engineer and I'll be sharing my real-world Linux experience with you throughout this course. By the end of this course you will fully understand the most important and fundamental concepts of Linux server administration. More importantly, you will be able to put those concepts to use in practical real-world situations. You'll be able to configure, maintain, and support a variety of Linux systems. You can even use the skills you learned to become a Linux System Engineer or Linux System Administrator.",
+        "student": "31,382",
+        "price": 84.99,
+        "topic": "Operating Systems & Servers"
+    }
+]
