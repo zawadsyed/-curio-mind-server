@@ -1,8 +1,8 @@
 [
     {
         "id": "01",
-        "img": "https://i.ibb.co/L9PBcsR/machine-Learning.jpg",
-        "course_title": "Deep Learning Prerequisites:Linear Regression in PythonData science, machine learning, and artificial intelligence in Python for student",
+        "img": "https://miro.medium.com/max/1400/1*cG6U1qstYDijh9bPL42e-Q.jpeg",
+        "course_title": "Linear Regression in PythonData science, machine learning, and artificial intelligence in Python for student",
         "rating": {
             "number": 4.4,
             "badge": "Good"
@@ -14,7 +14,7 @@
     },
     {
         "id": "02",
-        "img": "https://i.ibb.co/mqRDY8Z/3d-Gaming-Model.jpg",
+        "img": "https://cdn.shopify.com/s/files/1/0508/6747/0494/articles/unnamed_85098cea-a4de-47ed-b6f7-90d1fa64f116.jpg?v=1623429494",
         "course_title": "Learn Blender 3D Modeling for Unity Video Game Development",
         "rating": {
             "number": 4.8,
@@ -27,7 +27,7 @@
     },
     {
         "id": "03",
-        "img": "https://i.ibb.co/VV2GTyH/web-Development.jpg",
+        "img": "https://www.digitalsilk.com/wp-content/uploads/2020/06/website-development-process-1.jpg",
         "course_title": "The Complete Web Developer in 2022: Zero to Mastery",
         "rating": {
             "number": 4.7,
@@ -40,7 +40,7 @@
     },
     {
         "id": "04",
-        "img": "https://i.ibb.co/mt6fSqM/mobile-App-Development.jpg",
+        "img": "https://uploads-ssl.webflow.com/5f841209f4e71b2d70034471/6078b650748b8558d46ffb7f_Flutter%20app%20development.png",
         "course_title": "The Complete 2021 Flutter Development Bootcamp with Dart",
         "rating": {
             "number": 4.6,
@@ -53,7 +53,7 @@
     },
     {
         "id": "05",
-        "img": "https://i.ibb.co/7JHMPT9/cyber-Security.jpg",
+        "img": "https://www.simplilearn.com/ice9/category_image/Cyber-Security.jpg",
         "course_title": "Introduction to Security Awareness Campaigns",
         "rating": {
             "number": 4.4,
@@ -66,7 +66,7 @@
     },
     {
         "id": "06",
-        "img": "https://www.udemy.com/course/data-science-linear-regression-in-python/",
+        "img": "https://i.ytimg.com/vi/o5OcdAJLbPM/maxresdefault.jpg",
         "course_title": "Learn Linux Administration and Supercharge Your Career",
         "rating": {
             "number": 4.4,
